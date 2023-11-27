@@ -288,6 +288,7 @@ footer {
 
 .story-image {
     width: calc(35% - 10px); 
+    height: 500px;
     margin-left: 50px; 
     margin-top: 180px;
 }
